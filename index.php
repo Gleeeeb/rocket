@@ -2,12 +2,15 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - #Codevember Rocket</title>
+  <title>🚀</title>
   <link rel="stylesheet" href="css/style.css">
-
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
 </head>
 <body>
 <!-- partial:index.partial.html -->
+<div class="textbox">
+    <p>Website in development by Gleb Shabanov 🤪</p>
+</div>
 <div id="container"></div>
 <!-- partial -->
   <script src='https://cdn.rawgit.com/mrdoob/three.js/r89/build/three.js'></script>

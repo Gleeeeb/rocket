@@ -7,3 +7,19 @@ body {
 	color: #333;
 	background: #01374b;
 }
+
+.textbox {
+	width: 200px;
+	padding: 40px;
+	position: fixed;
+	left: 10px;
+	top: 30px;
+	background-color: #a1cfff;
+	opacity: 0.3;
+
+}
+p {
+	color: white;
+	font-size: x-large;
+
+}
