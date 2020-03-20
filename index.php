@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en" prefix="og: http://ogp.me/ns#">
 <head>
   <meta charset="UTF-8">
+<?php include 'analytics_scripts.php'; ?>
   <title>🚀</title>
   <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato" />
